@@ -8,5 +8,6 @@ namespace NorthBoundAPIs.Core.Common
 {
     class Class1
     {
+        //added
     }
 }
